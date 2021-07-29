@@ -4,6 +4,10 @@ Code for ICCV 2021 paper "Distilling Holistic Knowledge with Graph Neural Networ
 
 ![model](./img/model.jpg)
 
+### cifia-100 result
+
+![result](./img/result.PNG)
+
 The implementation of compared methods are based on the author-provided code and a open-source benchmark https://github.com/HobbitLong/RepDistiller.
 
 ## Installation
