@@ -2,6 +2,8 @@
 
 Code for ICCV 2021 paper "Distilling Holistic Knowledge with Graph Neural Networks"
 
+https://arxiv.org/abs/2108.05507
+
 ![model](./img/model.jpg)
 
 ### cifia-100 result
@@ -32,4 +34,13 @@ conda install --yes --file requirements.txt
 
 ## Citation
 
-The final version of the paper will also be released soon.
+```
+@misc{zhou2021distilling,
+      title={Distilling Holistic Knowledge with Graph Neural Networks}, 
+      author={Sheng Zhou and Yucheng Wang and Defang Chen and Jiawei Chen and Xin Wang and Can Wang and Jiajun Bu},
+      year={2021},
+      eprint={2108.05507},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
