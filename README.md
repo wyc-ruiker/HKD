@@ -1,5 +1,7 @@
 # HKD
 
+![gif](./img/HKD.gif)
+
 Code for ICCV 2021 paper "Distilling Holistic Knowledge with Graph Neural Networks"
 
 https://arxiv.org/abs/2108.05507
