@@ -37,12 +37,12 @@ conda install --yes --file requirements.txt
 ## Citation
 
 ```
-@misc{zhou2021distilling,
-      title={Distilling Holistic Knowledge with Graph Neural Networks}, 
-      author={Sheng Zhou and Yucheng Wang and Defang Chen and Jiawei Chen and Xin Wang and Can Wang and Jiajun Bu},
-      year={2021},
-      eprint={2108.05507},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@InProceedings{Zhou_2021_ICCV,
+    author    = {Zhou, Sheng and Wang, Yucheng and Chen, Defang and Chen, Jiawei and Wang, Xin and Wang, Can and Bu, Jiajun},
+    title     = {Distilling Holistic Knowledge With Graph Neural Networks},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2021},
+    pages     = {10387-10396}
 }
 ```
